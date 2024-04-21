@@ -17,10 +17,11 @@ This project focuses on analyzing FIFA World Cup data to uncover insights about 
 
 
 # Skills 
+
 **Scripting**
 Python
-**
-Data Engineering**
+
+**Data Engineering**
 Exploratory Data Analysis
 
 **Data Visualization**
