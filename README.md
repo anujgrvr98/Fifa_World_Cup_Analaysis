@@ -18,14 +18,14 @@ This project focuses on analyzing FIFA World Cup data to uncover insights about 
 
 # Skills 
 
-**Scripting : **
+Scripting : 
 Python
 
-**Data Engineering : **
+Data Engineering : 
 Exploratory Data Analysis
 
-**Data Visualization : **
+Data Visualization : 
 Python
 
-**Libraries Used : **
+Libraries Used : 
 Pandas, Numpy, Matplotlib, Seaborn, Plotlu and Scipy
